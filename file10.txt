@@ -1,4 +1,9 @@
 This is for merging purpose
 line 2
 3rd line
+
+This is for mergin purpose
+2nd line
+line 3
+
 4th line
